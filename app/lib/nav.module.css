@@ -1,12 +1,12 @@
 .nav{
     display:flex;
     height: 15vh;
-    width:100vw;
+    width:full;
     align-content:center;
     align-items:center;
     /*justify-content:center;*/
     flex-direction: row;
-    border-bottom:1px solid white;
+    border-bottom:0px solid white;
     padding:5px;
   }
   
@@ -46,7 +46,7 @@
   .nav h1{
     align-items: center;
     display:flex;
-    font-family: Helvetica;
+    font-family: proxima-nova, sans-serif;
     font-size:300%;
     justify-self: left;
   }

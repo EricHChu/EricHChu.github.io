@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'proxima';
+    src: url('/fonts/proximanova_black.ttf');
+}
