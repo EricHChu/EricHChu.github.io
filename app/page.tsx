@@ -11,7 +11,10 @@ export default function Home() {
           <Bamboo/>
           <Bamboo/>
         </div>
-        <div className='text-3xl font-bold underline basis-fill font-proxima'><a href='/Eric_Chu_June_2025_Resume.pdf'>Eric Chu!</a></div>
+        <div className='flex-col justify-center'>
+          <a className='text-3xl font-bold underline basis-fill font-proxima text-center' href='/resume'>Current Resume Here!</a>
+          <p className='justify-center text-center'><br/><br/>Website is work in progress! <br/> Trying to go for a homemade look/aesthetic <br/>I also like plants</p>
+        </div>
         <div className='flex flex-col w-1/14 justify-right'>
           <Bamboo/>
           <Bamboo/>
